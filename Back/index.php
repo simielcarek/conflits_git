@@ -12,6 +12,8 @@
 	
 	api/entity1
 	api/entity2
+	api/entity3
 	office/index
+	office/settings
 
 ?>
