@@ -1,4 +1,4 @@
-Et un super Json
+Mise en place d'un mode "offline" avec JSON
 
 [
   '{{repeat(5, 7)}}',
@@ -41,3 +41,5 @@ Et un super Json
     }
   }
 ]
+
+Préparation de la mise en place "online" qui ira chercher des URL
